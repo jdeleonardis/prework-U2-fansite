@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+  }
+
+h1{
+    text-align: center;
+}
+
+#bandImage{
+    border-style: double;
+    border-color: greenyellow;
+}
+
+#bono{
+    font-size: large;
+    color: chartreuse;
+    font-weight: bold;
+}
+
+#theEdge{
+    color: yellow;
+}
+
+#mullen{
+    color: orange;
+}
+
+#clayton{
+    color: blueviolet;
+}
+
+p.description{
+    font-family: fantasy;
+}
+
+p.link{
+    font-size: large;
+}
